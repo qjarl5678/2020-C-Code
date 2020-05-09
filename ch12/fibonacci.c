@@ -7,7 +7,7 @@ int count;
 //함수원형
 void fibonacci(int prev_number, int number);
 
- int main(void) {
+ int main(void) { 
 	//자동 지역변수
 	auto prev_number = 0, number = 1;
 
